@@ -1,0 +1,8 @@
+RESTRICTION: == net461
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FSharp.Core (4.2.3)
+    Newtonsoft.Json (10.0.3)
+    SwaggerProvider (0.8.1)
+      FSharp.Core (>= 4.0)
+      Newtonsoft.Json (>= 10.0)

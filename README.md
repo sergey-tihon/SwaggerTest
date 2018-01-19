@@ -1,0 +1,1 @@
+Trying to run `dotnet build` results in: `error FS3033: The type provider 'SwaggerProvider.SwaggerTypeProvider' reported an error: Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The system cannot find the file specified. `

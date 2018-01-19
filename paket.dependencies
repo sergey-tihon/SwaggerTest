@@ -1,0 +1,5 @@
+source https://api.nuget.org/v3/index.json
+framework: net461
+
+nuget FSharp.Core >= 4.1
+nuget SwaggerProvider 0.8.1
